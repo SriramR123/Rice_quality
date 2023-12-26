@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/rice-quality-detection.git
+git clone https://https://github.com/SriramR123/Rice_quality.git
 Install the required dependencies:
 
 bash
